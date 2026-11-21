@@ -1,0 +1,14 @@
+pairing.json
+build/
+.stick-qoder/
+work/
+firmware/binaries/
+speech/StickSpeech
+*.bin
+*.elf
+*.map
+*.log
+.env
+.env.*
+*.env
+.DS_Store
